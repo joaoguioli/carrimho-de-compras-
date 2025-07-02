@@ -31,7 +31,4 @@ Projeto simples de um carrinho de compras feito com **HTML**, **CSS** e **JavaSc
 3. Escolha um produto, coloque a quantidade e clique em “Adicionar”.
 4. Use o botão “Limpar” se quiser começar de novo.
 
----
-
-## Estrutura
 
